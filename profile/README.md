@@ -1,4 +1,4 @@
-## Hi there 👋
+## Nothing for you here, just internal projects.
 
 <!--
 
