@@ -1,4 +1,4 @@
-## Nothing for you here, just internal projects.
+## Nothing for you here.
 
 <!--
 
