@@ -1,2 +1,2 @@
 # .github
-Default public README.md for the Blue Ice organization on GitHub
+Public organization profile and shared GitHub configuration.
